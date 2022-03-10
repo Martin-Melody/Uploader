@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #cbe9e0; 
+}
+
+.card{
+    padding: 7px;
+    min-width: 300px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: yellow; */
+    text-align: center;
+    height: 500px;
+}
+
+#middleOne{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.btn{
+    position: absolute;
+    bottom: 20px;
+    background-color: #41967b;
+    width: 170px;
+    border-radius: 30px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: .7px;
+}
+
+.cardImg{
+    max-width: 250px;
+}
+
+.card h4{
+    color: #42977d;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+
+.h3Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+h3{
+    color: #41967b;
+    font-weight: 400;
+}
+
+.h1Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1{
+    color: #559b8d;
+}
+
+h5{
+    color: #333333;
+}
+
+.bottomContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+
+.bottomContainer h5 a{
+    text-decoration: underline;
+    user-select: none;
+    color: #333333;
+}
+
+.bottomContainer h5 a:hover{
+    color: #333333;
+    cursor: pointer;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+/* Navigation */
+
+
+
+
+
+
+/* Navigation */
+
+
+/* Footer */
+
+footer{
+    width: 100%;
+    position:static;
+    bottom: 0;
+}
+
+.footerClass{
+    background-color: #333333;
+}
+.footerClass .row .col-sm{
+    padding-top: 70px;
+    height: 300px;
+}
+
+.footerClass .row{
+    width: 100%;
+    margin: 0px;
+    padding: 0;
+}
+
+.footerClass .row p{
+    color: white;
+    text-align: center;
+}
+
+
+p .link{
+    text-decoration: underline;
+}
+
+p .link:hover{
+    text-decoration: underline;
+    color: #559b8d;
+}
+
+.link{
+    color: #559b8d;
+    user-select: none;
+}
+
+.bottomFotter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+
+/* Footer */
+
+
